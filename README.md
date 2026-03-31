@@ -1,4 +1,4 @@
-\# 🧬 Pheflux SaaS
+# 🧬 Pheflux SaaS
 
 
 
@@ -14,7 +14,7 @@ Plataforma web orientada a la modelación de rutas metabólicas integrando datos
 
 
 
-\## 🎥 Demo
+## 🎥 Demo
 
 
 
@@ -26,7 +26,7 @@ Plataforma web orientada a la modelación de rutas metabólicas integrando datos
 
 
 
-\## 🚀 Descripción
+## 🚀 Descripción
 
 
 
@@ -48,7 +48,7 @@ Pheflux fue concebido como una solución SaaS para:
 
 
 
-\## 🧠 Enfoque técnico
+## 🧠 Enfoque técnico
 
 
 
@@ -64,7 +64,7 @@ Pheflux fue concebido como una solución SaaS para:
 
 
 
-\## 📌 Estado del proyecto
+## 📌 Estado del proyecto
 
 
 
@@ -72,7 +72,7 @@ Este proyecto fue discontinuado en etapa temprana/intermedia.
 
 
 
-\### Incluye:
+### Incluye:
 
 \- Demo funcional en video  
 
@@ -82,7 +82,7 @@ Este proyecto fue discontinuado en etapa temprana/intermedia.
 
 
 
-\### No incluye:
+### No incluye:
 
 \- Código fuente completo  
 
@@ -98,7 +98,7 @@ Este proyecto fue discontinuado en etapa temprana/intermedia.
 
 
 
-\## ⚖️ Licencia
+## ⚖️ Licencia
 
 
 
@@ -120,7 +120,7 @@ No está permitido copiar, modificar, distribuir ni utilizar este proyecto sin a
 
 
 
-\## 👩‍🔬 Autor
+## 👩‍🔬 Autor
 
 
 
